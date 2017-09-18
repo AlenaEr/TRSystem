@@ -15,7 +15,7 @@ import java.util.UUID;
 /**
  * Implementation of {@link SpecialtyDAO} interface.
  *
- * @author Oleksii Samantsov
+
  */
 
 @SuppressWarnings("JpaQlInspection")

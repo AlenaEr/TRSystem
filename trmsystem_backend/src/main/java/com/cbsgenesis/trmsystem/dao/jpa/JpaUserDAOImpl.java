@@ -17,7 +17,6 @@ import org.apache.log4j.Logger;
 /**
  * Implementation of {@link UserDAO} interface.
  *
- * @author Eugene Suleimanov
  */
 
 @Repository

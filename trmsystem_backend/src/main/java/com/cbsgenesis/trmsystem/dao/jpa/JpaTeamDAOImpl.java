@@ -17,7 +17,7 @@ import java.util.UUID;
 /**
  * Implementation of {@link TeamDAO} interface.
  *
- * @author Anton Lifyrenko
+
  */
 
 @SuppressWarnings("JpaQlInspection")

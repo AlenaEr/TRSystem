@@ -151,7 +151,7 @@ CREATE TABLE IF NOT EXISTS specialties (
 
 -- specialist_specialties
 CREATE TABLE IF NOT EXISTS specialist_specialties (
-  specialist_id UUID NOT NULL,
+  specialtist_id UUID NOT NULL,
   specialty_id  UUID NOT NULL,
 
   FOREIGN KEY (specialist_id) REFERENCES specialists (id)

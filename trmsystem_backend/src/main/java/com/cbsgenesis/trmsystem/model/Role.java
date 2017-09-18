@@ -7,8 +7,6 @@ import java.util.Set;
 
 /**
  * Simple JavaBean domain object that represents Role of the {@link User}
- *
- * @author Eugene Suleimanov
  */
 
 @Entity

@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import java.util.UUID;
 
 /**
- * Created by Vasiliy Kylik on 12.04.2017.
  */
 @Controller
 public class AdminCRUDUserController {

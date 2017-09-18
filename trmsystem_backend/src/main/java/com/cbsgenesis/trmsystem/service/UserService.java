@@ -7,8 +7,6 @@ import java.util.UUID;
 
 /**
  * Service class for class {@link User}
- *
- * @author Eugene Suleimanov
  */
 
 public interface UserService {

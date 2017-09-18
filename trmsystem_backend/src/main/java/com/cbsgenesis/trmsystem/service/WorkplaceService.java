@@ -7,8 +7,6 @@ import java.util.UUID;
 
 /**
  * Service class for {@link Workplace}
- * 
- * @uuthor: Iryna Seliutina.
  */
  
 public interface WorkplaceService {

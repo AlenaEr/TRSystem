@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 /**
  * Controller for pages connected with event.
  *
- * @author Kyryl Potapenko
  * @since 2017-04-16
  */
 @Controller

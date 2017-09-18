@@ -8,8 +8,6 @@ import java.util.UUID;
 
 /**
  * Service class for class {@link Team}
- *
- * @author Anton Lifyrenko
  */
 public interface TeamService {
 

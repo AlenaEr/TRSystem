@@ -5,8 +5,6 @@ import javax.persistence.Table;
 
 /**
  * Simple JavaBean domain object that represents a Specialty of {@link Specialist}.
- *
- * @author Eugene Suleimanov
  */
 
 @Entity

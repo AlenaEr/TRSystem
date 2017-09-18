@@ -17,7 +17,6 @@ import org.springframework.transaction.annotation.Transactional;
 /**
  * JPA implementation of {@link RoleDAO} interface.
  *
- * @author Eugene Suleimanov
  */
 
 @Repository

@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 /**
  * Controller for pages connected with authentication (registration, forgot password, etc.)
  *
- * @author Eugene Suleimanov
  */
 
 @Controller

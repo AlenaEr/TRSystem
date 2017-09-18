@@ -8,8 +8,7 @@ import java.util.Set;
 
 /**
  * Simple JavaBean domain object that represents an Admittance.
- *
- * @author Eugene Suleimanov
+
  */
 
 @Entity

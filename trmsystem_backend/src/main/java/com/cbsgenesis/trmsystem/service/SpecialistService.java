@@ -7,8 +7,6 @@ import java.util.UUID;
 
 /**
  * Service interface for class {@Link Specialist}.
- *
- * @author Dmitriy Saltykov
  */
 
 public interface SpecialistService {

@@ -8,8 +8,6 @@ import java.util.Set;
 
 /**
  * Simple JavaBean domain object that represents a User.
- *
- * @author Eugene Suleimanov
  */
 
 @Entity

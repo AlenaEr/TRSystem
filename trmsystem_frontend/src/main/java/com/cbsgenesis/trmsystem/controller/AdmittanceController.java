@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 /**
  * Controller for pages connected with admittance.
  *
- * @author Kyryl Potapenko
  * @since 2017-03-22
  */
 @Controller

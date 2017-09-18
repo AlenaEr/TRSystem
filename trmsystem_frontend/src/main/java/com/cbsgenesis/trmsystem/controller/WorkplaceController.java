@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 /**
  * Implementation of {@link WorkplaceController}.
  *
- * Author: Iryna Seliuttna.
  */
 
 @Controller

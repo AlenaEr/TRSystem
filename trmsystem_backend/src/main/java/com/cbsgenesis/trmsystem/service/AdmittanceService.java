@@ -7,8 +7,6 @@ import java.util.UUID;
 
 /**
  * Service interface for class {@link Admittance}.
- *
- * @author Kyryl Potapenko
  */
 public interface AdmittanceService {
     Admittance getById(UUID id);

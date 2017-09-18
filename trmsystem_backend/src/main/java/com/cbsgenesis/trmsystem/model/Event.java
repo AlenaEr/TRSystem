@@ -6,8 +6,7 @@ import java.util.Set;
 
 /**
  * Simple JavaBean domain object that represents an Event (Workday, Technical study, etc.)
- *
- * @author Eugene Suleimanov
+
  */
 
 @Entity

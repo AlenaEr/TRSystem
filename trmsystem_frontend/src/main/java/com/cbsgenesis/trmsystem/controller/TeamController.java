@@ -21,7 +21,6 @@ import java.util.Collection;
 import java.util.List;
 
 /**
- * Created by ANTON on 09.03.2017.
  */
 
 @Controller

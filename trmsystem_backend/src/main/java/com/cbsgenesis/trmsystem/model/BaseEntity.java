@@ -11,8 +11,6 @@ import java.util.UUID;
 /**
  * Base class with property 'id'.
  * Used as a base class for all objects that need this property.
- *
- * @author Eugene Suleimanov
  */
 
 @MappedSuperclass

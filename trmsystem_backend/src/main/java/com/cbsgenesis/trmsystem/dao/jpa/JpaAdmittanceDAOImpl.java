@@ -14,9 +14,7 @@ import java.util.UUID;
 
 /**
  * JPA implementation of {@link AdmittanceDAO} interface.
- *
- * @author Kyryl Potapenko
- * @since 2017-03-03
+
  */
 @Repository
 public class JpaAdmittanceDAOImpl implements AdmittanceDAO {

@@ -8,8 +8,6 @@ import java.util.UUID;
 
 /**
  * Service interface for class {@link Role}.
- *
- * @author Eugene Suleimanov
  */
 public interface RoleService {
 

@@ -13,7 +13,6 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * Controller for basic pages (About, Terms of Use, etc.)
  *
- * @author Eugene Suleimanov
  */
 
 @Controller

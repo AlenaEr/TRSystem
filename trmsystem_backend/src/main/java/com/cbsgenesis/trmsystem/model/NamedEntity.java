@@ -6,8 +6,6 @@ import javax.persistence.MappedSuperclass;
 /**
  * Base class that extends {@link BaseEntity} and adds property 'name'.
  * Used as a base class for all objects that need this property.
- *
- * @author Eugene Suleimanov
  */
 
 @MappedSuperclass

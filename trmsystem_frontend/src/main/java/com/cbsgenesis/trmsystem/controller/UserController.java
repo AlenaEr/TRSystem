@@ -12,7 +12,6 @@ import org.springframework.web.bind.annotation.*;
 /**
  * Controller for {@link User}'s pages
  *
- * @author Eugene Suliemanov
  */
 
 @Controller

@@ -4,8 +4,7 @@ import java.util.Collection;
 
 /**
  * Generic DAO interface that contains basic functionality (Create, Read, etc.).
- *
- * @author Eugene Suleimanov
+
  */
 public interface GenericDAO<T, ID> {
 

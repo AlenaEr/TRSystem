@@ -2,8 +2,6 @@ package com.cbsgenesis.trmsystem.service;
 
 /**
  * Service for security purposes.
- *
- * @author Eugene Suleimanov
  */
 
 public interface SecurityService {

@@ -1,8 +1,5 @@
 <%--
   Created by IntelliJ IDEA.
-  User: Vasiliy Kylik
-  Date: 11.04.2017
-  Time: 21:35
   To change this template use File | Settings | File Templates.
 --%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>

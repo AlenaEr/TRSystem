@@ -8,8 +8,6 @@ import java.util.Set;
 
 /**
  * Simple JavaBean domain object that represents Type of {@link Event} (workday, technical study, simulator, etc.)
- *
- * @author Eugene Suleimanov
  */
 
 @Entity

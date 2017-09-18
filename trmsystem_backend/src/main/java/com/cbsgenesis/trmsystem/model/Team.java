@@ -5,8 +5,6 @@ import java.util.Set;
 
 /**
  * Simple JavaBean domain object that represents a Team of {@link Specialist}s.
- *
- * @author Eugene Suleimanov
  */
 
 @Entity

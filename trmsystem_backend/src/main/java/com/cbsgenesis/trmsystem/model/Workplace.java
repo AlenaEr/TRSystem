@@ -8,8 +8,6 @@ import java.util.Set;
 
 /**
  * Simple JavaBean domain object that represents a Workplace.
- *
- * @author Eugene Suleimanov
  */
 
 @Entity

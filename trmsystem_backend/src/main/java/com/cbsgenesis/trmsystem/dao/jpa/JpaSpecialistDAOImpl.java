@@ -14,8 +14,7 @@ import java.util.UUID;
 
 /**
  * JPA implementation of {@link SpecialistDAO} interface.
- *
- * @author Dmitriy Saltykov
+
  */
 
 

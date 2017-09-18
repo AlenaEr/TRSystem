@@ -14,8 +14,7 @@ import java.util.UUID;
 
 /**
  * Implementation of {@link WorkplaceDAO} interface.
- *
- * @author Iryna Seliutina.
+ *.
  */
 
 @Repository
